@@ -1,0 +1,2 @@
+[18-Feb-2023 11:32:46 UTC] PHP Warning:  Undefined variable $blacklist in /home/securitypedia/vault/xyz/unsaferesponse.php on line 3
+[18-Feb-2023 11:32:46 UTC] PHP Warning:  Undefined variable $fileName in /home/securitypedia/vault/xyz/unsaferesponse.php on line 3
